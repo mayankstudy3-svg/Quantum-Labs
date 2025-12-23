@@ -2,7 +2,7 @@
 
 Quantum X is a lightweight experimental drone platform focused on efficient coreless propulsion and stable real-world flight performance.
 
-**Firmware:** Custom ESP-based control stack with iterative tuning  
+**Firmware:** Multiwii on arduino nano  
 **Motors:** 8520 coreless motors 
 **Thrust:** Capable of producing >2× aircraft weight (tests vary by prop + battery)  
 **AUW:** ~64 g (current build, evolving with optimizations)  
